@@ -215,7 +215,49 @@ body {
     margin-bottom: 64px ;
 }
 
+.next-active {
+    margin-bottom: 200px;
+}
+
 .content-img {
     margin-bottom: 30px;
 }
+
+.new-title {
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 187.5%;
+    color: #222;
+    margin-bottom: 32px;
+}
+
+.new-text {
+    width: 545px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187.5%;
+    color: #525252;
+    margin-bottom: 46px;
+}
+
+.button {
+    width: 39.04px;
+    height: 39.04px;
+    background: #fff;
+    border-radius: 50%;
+    
+}
+
+.button-left {
+    margin-right: 24px;
+    box-shadow: 0px 4px 24px #0000001f;
+}
+
+.button-right {
+    box-shadow: 0px 4px 24px #0000001f;
+}
+
+
+
+
 
